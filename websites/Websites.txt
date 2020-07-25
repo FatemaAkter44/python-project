@@ -1,0 +1,26 @@
+goal.com
+soccer
+foodnetwork.com
+food, entertainment, recipes
+mls.com
+soccer
+espn.com
+sports, soccer, basketball, football
+cnn.com
+news, politics
+hbo.com
+movies, entertainment
+foxnews.com
+news, politics
+foxsports.com
+sports, soccer, basketball, football
+cbsnews.com
+news, politics
+recipes.com
+food, recipes
+fox.com
+entertainment, sports
+cbs.com
+sports, entertainment
+netflix.com
+movies, entertainment
